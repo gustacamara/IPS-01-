@@ -1,6 +1,8 @@
 # IPS-01
 
 Este projeto contém implementações de estruturas de dados básicas em Java: fila encadeada e pilha encadeada.
+Todos os exercícios foram feitos usando a estrutura de NO, com a classe `No` contendo o `dado` e o endereço do 
+proximo `No` dentro de `proximo`.
 
 ## Fila Encadeada
 
